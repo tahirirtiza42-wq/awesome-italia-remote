@@ -118,6 +118,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [iubenda](https://www.linkedin.com/company/iubenda/) | [Career Page](https://www.linkedin.com/company/iubenda/jobs) | Product | Direct | Python - SQL - Ruby - MongoDB
 [Jagaad](https://jagaad.com) | [Career Page](https://jagaad.com/careers) | B2C | Direct | API Integrations - AWS - Docker - Figma - Flutter - Go - Java - JavaScript - Magento - Mobile Apps - Next.js - Node - PHP - PostgreSQL - PrestaShop - React - Sitecore - Strapi - TypeScript - Vue
 [Jet HR](https://www.jethr.com/) | [Career Page](https://www.linkedin.com/company/jethr/jobs/) | Product | Direct - Contract | Python - Django - Django REST framework - JavaScript - Vue.js - AWS - Figma - Notion
+[HRBS Global](https://hrbsglobal.com/) | [Career Page](https://hrbsglobal.com/jobs/) | Product | Direct - Contract | WP - PHP - JavaScript - Core.js - Figma
 [Juni](https://www.juni.co/) | [Career Page](https://www.juni.co/careers) | Product | Intermediary | Javascript - Typescript - React - React Native - Go - Kafka - Docker - Kubernetes - AWS - gRPC
 [Kiratech S.p.A.](https://www.kiratech.it/en) | [Career Page](https://www.kiratech.it/en/work-with-us) | B2B | Direct | Cloud Native - Consultancy - Kubernetes - DevOps - Software Development - Cloud Native Technologies - Platform Engineering
 [Klondike](https://www.klondike.ai) | [Career Page](https://www.linkedin.com/company/klondike/jobs/) | B2B | Direct | PHP - Javascript - Python
