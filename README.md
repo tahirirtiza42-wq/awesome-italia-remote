@@ -244,6 +244,7 @@ Name | Career Page | Company Type | Hiring Policy | Stack
 [DuckDuckGo](https://www.duckduckgo.com/) | [Career Page](https://duckduckgo.com/hiring) | Consulting | - | TypeScript - JavaScript - MacOS - iOS - Android
 [Jet HR](https://www.jethr.com/) | [Career Page](https://www.linkedin.com/company/jethr/jobs/) | Product | Direct - Contract | Python - Django - Django REST framework - JavaScript - Vue.js - AWS - Figma - Notion
 [Meta](https://about.facebook.com/meta/) | [Career Page](https://www.metacareers.com/jobs?roles[0]=full-time&offices[0]=Remote%2C%20Italy) |  | Direct | C - Linux - Kernel - Rust
+[HRBS Global](https://hrbsglobal.com/) | [Career Page](https://hrbsglobal.com/jobs/) | Product | Direct - Contract | WP - PHP - JavaScript - Core.js - Figma
 [Nenet](https://www.nenetcompany.com) | [Career Page](https://www.linkedin.com/company/nenetcompany/jobs/) | B2B | Direct | Training - Coaching - Learning
 [Redlab - The Consultancy Solution](https://www.linkedin.com/company/redlabsolution/) | [Career Page](https://www.linkedin.com/company/redlabsolution/jobs) | B2B | Direct | Business Management
 
